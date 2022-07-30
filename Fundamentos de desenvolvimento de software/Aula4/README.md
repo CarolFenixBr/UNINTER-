@@ -1,6 +1,6 @@
 # *Devenvolvimento de Site - HTML*
 ## Aula 4 com duas práticas em HTML 
-### 1° Prática Formulários
+### 1° Prática: Formulários
 Site do professor
 
 ![image](https://user-images.githubusercontent.com/89542446/181864617-1c6ee132-3f65-4e53-9aec-709170d633ec.png)
