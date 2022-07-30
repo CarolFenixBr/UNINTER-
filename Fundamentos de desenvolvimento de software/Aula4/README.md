@@ -11,4 +11,6 @@ Site do professor
 Site feito por mim durante a aula
 ![image](https://user-images.githubusercontent.com/89542446/181864669-897a495e-f73e-4ecc-b662-65f8d620ffe5.png)
 
+### 2° Prática: Tabela
+![image](https://user-images.githubusercontent.com/89542446/181865826-8e84ce31-2efc-4565-94da-222dbf3164af.png)
 
