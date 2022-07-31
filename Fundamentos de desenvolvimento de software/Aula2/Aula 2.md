@@ -4,3 +4,6 @@ Realizei uma prática no qual decidi fazer sobre Harry Potter 🦉, adicionei um
 Abaixo o link do projeto. 
 
 [https://scratch.mit.edu/projects/717821662](https://scratch.mit.edu/projects/717994260)
+
+![image](https://user-images.githubusercontent.com/89542446/182007565-87aae3a9-db8c-4db2-84ed-e4aaee29123d.png)
+
