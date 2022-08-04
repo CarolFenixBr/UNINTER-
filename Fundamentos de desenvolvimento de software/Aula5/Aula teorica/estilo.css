@@ -1,0 +1,25 @@
+.central {text-align: center;}
+    h1.Supertitulo{color:aquamarine; font-size: 20px;}
+        
+.Supertitulo{font-size: 50px;}
+
+    #tituloprincipal{font-size: 90px; color: hwb(0 99% 0%);}
+    p{background-color: rgb(126, 164, 221);}
+    p{background-color:hsl(180, 16%, 73%) }
+
+.minhalista li{color: #12e78e;}
+
+body{
+    background-image: url("CV.png");
+    background-repeat: no-repeat;
+    /* teste background-attachment: fixed; */
+}
+
+.caixa{
+    margin:10px;
+    margin-top: 50px;
+    padding:20px;
+    border:4px solid blue;
+    width: fit-content;
+    background-color: aqua;
+}
