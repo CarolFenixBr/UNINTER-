@@ -14,7 +14,6 @@ function calcular(){
             resposta.classList.remove("problema");
             resposta.innerHTML='';
         },3000);
-
     }
     else{
         const valor1 = parseInt (campo1.value);
