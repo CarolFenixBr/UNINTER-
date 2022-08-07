@@ -35,3 +35,10 @@ input[type='text']{
     border-radius: 15px;
     margin:5px 0;
 }
+.problema{
+    background: red;
+    color:cornsilk;
+    padding: 5px;
+    margin: 5px;
+
+}
