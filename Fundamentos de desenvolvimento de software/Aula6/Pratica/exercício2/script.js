@@ -7,15 +7,26 @@ const resposta = document.querySelector("#resposta");
 botao.addEventListener("click", calcular);
 
 function calcular(){
-    const valor1 = parseInt (campo1.value);
-    const valor2 = parseInt (campo2.value);
-    const operacao = seletor.value;
-    if(operacao==="Somar")
-        resposta.innerHTML = valor1 + valor2;
-    if(operacao==="Subtrair")
-        resposta.innerHTML = valor1 - valor2;
-    if(operacao==="Multiplicar")
-        resposta.innerHTML = valor1 * valor2;
-    if(operacao==="Dividir")
-        resposta.innerHTML = valor1 / valor2;
+    if(campo1.value==='' || campo2.value==='' ){
+        resposta.classList.add("problema");
+        resposta.innerHTML="Campo vazio";
+        setTimeout(()=>{
+            resposta.classList.remove("problema");
+            resposta.innerHTML='';
+        },3000);
+
+    }
+    else{
+        const valor1 = parseInt (campo1.value);
+        const valor2 = parseInt (campo2.value);
+        const operacao = seletor.value;
+        if(operacao==="Somar")
+            resposta.innerHTML = valor1 + valor2;
+        if(operacao==="Subtrair")
+            resposta.innerHTML = valor1 - valor2;
+        if(operacao==="Multiplicar")
+            resposta.innerHTML = valor1 * valor2;
+        if(operacao==="Dividir")
+            resposta.innerHTML = valor1 / valor2;
+    }
 }
