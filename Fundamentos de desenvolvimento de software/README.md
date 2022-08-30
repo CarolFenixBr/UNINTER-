@@ -3,31 +3,31 @@ Fundamentos de Software; Conceitos de Engenharia de Software e o Profissional En
 
 ### HABILIDADES
 
-• Conhecer os principais fundamentos da engenharia de software e de desenvolvimento de software;
+🔹 Conhecer os principais fundamentos da engenharia de software e de desenvolvimento de software;
 
-• Conhecer os conceitos de nuvem e desenvolvimento web; 
+🔹 Conhecer os conceitos de nuvem e desenvolvimento web; 
 
-• Conhecer Ferramentas de desenvolvimento de software; 
+🔹 Conhecer Ferramentas de desenvolvimento de software; 
 
-• Construir uma página HTML básica;
+🔹 Construir uma página HTML básica;
 
-• Aplicar estilo com tecnologia CSS; 
+🔹 Aplicar estilo com tecnologia CSS; 
 
-• Utilizar JavaScript para configurar interações básicas com o usuário; 
+🔹 Utilizar JavaScript para configurar interações básicas com o usuário; 
 
 • Entendimento sobre conceitos gerais de internet e os principais agentes.
 
 ### COMPETÊNCIAS
-☑️ Entender quais são os fundamentos da engenharia de Software;
+🔹 Entender quais são os fundamentos da engenharia de Software;
 
-☑️ Compreender a relação entre redes, internet , web e nuvem;
+🔹Compreender a relação entre redes, internet , web e nuvem;
 
-☑️ Compreender o papel da Engenharia de software no desenvolvimento de software;
+🔹 Compreender o papel da Engenharia de software no desenvolvimento de software;
 
-☑️ Compreender as relações entre os principais agentes que compõem a internet;
+🔹 Compreender as relações entre os principais agentes que compõem a internet;
 
-☑️ Elaborar páginas HTML básicas;
+🔹 Elaborar páginas HTML básicas;
 
-☑️ Estilizar páginas utilizando CSS e entender conceitos de responsividade;
+🔹 Estilizar páginas utilizando CSS e entender conceitos de responsividade;
 
-☑️ Desenvolver interação em páginas HTML com JavaScript.
+🔹 Desenvolver interação em páginas HTML com JavaScript.
