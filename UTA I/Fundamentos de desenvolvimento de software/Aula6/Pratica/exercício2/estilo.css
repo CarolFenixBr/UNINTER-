@@ -1,0 +1,44 @@
+input[type='text']{    
+    width: 10%;
+    padding: 15px ;
+    border-radius: 10px;
+    background: rgb(5, 5, 5);
+    color:rgb(243, 6, 6);
+    margin:5px 0;
+    
+}
+.botao {  
+    display: block;       
+    width: 5%;
+    padding: 10px ;
+    border: 0;
+    background: rgb(0, 0, 0);
+    color:rgb(243, 6, 6);
+    border-radius: 5px;
+    margin:5px 0;
+}
+.resposta{      
+    width: 16%;
+    padding: 15px ;
+    border: 0;
+    background: rgb(0, 0, 0);
+    color:rgb(243, 6, 6);
+    border-radius: 15px;
+    margin:5px 0;
+}
+.operacao{      
+    width: 15%;
+    padding: 15px ;
+    border: 0;
+    background: rgb(0, 0, 0);
+    color:rgb(243, 6, 6);
+    border-radius: 15px;
+    margin:5px 0;
+}
+.problema{
+    background: red;
+    color:cornsilk;
+    padding: 5px;
+    margin: 5px;
+
+}

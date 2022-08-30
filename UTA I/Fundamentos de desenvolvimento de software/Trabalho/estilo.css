@@ -1,0 +1,23 @@
+body{ /* corpo da pagina  */ 
+    background-color: rgb(206, 235, 250); /* cor do plano de fundo */
+}
+.titulo{ /* classe criada no html*/
+color: rgb(0, 0, 0); /* cor da letra */
+font-size:4rem; /* tamanho do texto*/
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  /* tipo de fonte */  
+}
+.citacao{ /* classe */
+color: green; 
+font-family: 'Courier New', Courier, monospace;
+font-size: small ;
+}
+.corVermelha {
+    color: #f00;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.corAzul {
+    color: rgb(6, 2, 248);
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
