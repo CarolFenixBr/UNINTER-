@@ -12,17 +12,17 @@ Roteamento e Encaminhamento. Segurança: Firewall, IPS e VPN.
 ## HABILIDADES
 🔹 Diferenciar as arquiteturas computacionais e suas aplicações;
 
-🔹 Definir e escolher qual sistema operacional utilizar em um projeto de software
+🔹 Definir e escolher qual sistema operacional utilizar em um projeto de software;
 
 🔹Avaliar uma rede de computadores, em função de suas características, buscando a otimização 
-de um projeto de software
+de um projeto de software.
 
 ## COMPETÊNCIAS
 🔹Conhecer as diferentes arquiteturas de computadores e seus componentes buscando a 
-otimização dos sistemas de software
+otimização dos sistemas de software;
 
 🔹 Compreender o funcionamento dos Sistemas Operacionais e qual sua importância para o 
-correto funcionamento dos softwares de alto nível
+correto funcionamento dos softwares de alto nível;
 
 🔹 Conhecer o funcionamento básico de uma rede de computadores e sua relação com os 
 sistemas de software.
