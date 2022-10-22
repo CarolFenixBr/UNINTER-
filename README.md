@@ -2,7 +2,7 @@
 
 # Engenharia de Software
 ## Grade Curricular
-![image](https://user-images.githubusercontent.com/89542446/197353754-480c0ffa-3e86-4270-9b13-b80f9caf3927.png)
+![image](https://user-images.githubusercontent.com/89542446/197353803-c2461ea4-77e2-4fba-a8d4-e614cf8504d9.png)
 
 </div>
 
