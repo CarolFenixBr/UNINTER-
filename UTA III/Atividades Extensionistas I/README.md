@@ -1,58 +1,57 @@
 # Plano de Ensino
 ## EMENTA 
-Atividade de coleta e análise de dados permitindo o aluno se envolver dentro de alguma das seguintes modalidades:
-
-🔹 I - programas;
-
-🔹 II - projetos; 
-
-🔹 III - cursos e oficinas; 
-
-🔹 IV - eventos;
-
-🔹 V - prestação de serviços. Dentro de um contexto que visa uma formação cidadã dos estudantes, marcada e constituída pela vivência dos seus conhecimentos, que, de modo interprofissional e interdisciplinar, seja valorizada e integrada aos demais conceitos abordados no curso.
-
-## COMPETÊNCIAS
-
-🔹 Possibilitar a formação como cidadão crítico e responsável; Interculturalidade;
-
-🔹  Possibilitar a reflexão Ética;
-
-🔹  Possibilitar o desenvolvimento Social, Equitativo e sustentável.
+Desenvolver atividades em processo interdisciplinar, político-educacional, cultural, científico, tecnológico, 
+que promovam a interação transformadora do ensino superior, e para os outros setores da sociedade, por 
+meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa. 
+Desenvolver atividades na atividade de extensão intervenções que envolvem diretamente as comunidades 
+externas às instituições de ensino superior e que estejam vinculadas à sua formação e de demais pessoas 
+da sociedade civil, atendendo resoluções próprias.
 
 ## HABILIDADES
+🔹 Interagir com a sociedade por meio da troca de conhecimentos, da participação e do contato com 
+as questões contemporâneas com vistas ao desenvolvimento econômico, social e cultural;
 
-🔹  Possibilitar a formação como cidadão crítico e responsável; Interculturalidade;
+🔹 Produzir mudanças na própria instituição superior e nos demais setores da sociedade, a partir da 
+construção e aplicação de conhecimentos, bem como por outras atividades acadêmicas e sociais;
 
-🔹  Possibilitar a reflexão Ética;
+🔹 Promover a reflexão ética quanto à dimensão social do ensino e da pesquisa.
 
-🔹  Possibilitar o desenvolvimento Social, Equitativo e sustentável.
+## COMPETÊNCIAS
+🔸 Compreender a importância da formação cidadã e pessoal constituído pela vivência dos seus 
+conhecimentos que, de modo interprofissional e interdisciplinar; 
 
-## CONHECIMENTOS
+🔸Compreender a importância da articulação entre ensino/extensão/pesquisa, ancorada em processo 
+pedagógico único, interdisciplinar, político educacional, cultural, científico e tecnológico; 
 
-🔹  Cidadania
+🔸 Compreender a importância de estabelecer diálogo construtivo e transformador com os demais 
+setores da sociedade, respeitando e promovendo a interculturalidade;
 
-🔹  Gestão e documentação de projetos
+🔸 Compreender a importância da promoção de iniciativas que expressem o compromisso social das 
+instituições de ensino superior com todas as áreas, em especial, as de comunicação, cultura, 
+direitos humanos e justiça, educação, meio ambiente, saúde, tecnologia, produção e trabalho, em 
+consonância com as políticas ligadas aos objetivos do milênio, às diretrizes para a educação 
+ambiental, educação étnico-racial, direitos humanos e educação indígena. 
 
-🔹  Prática da extensão
+## BIBLIOGRAFIAS
+### Bibliografia Básica
+🔹 CASARIN, H. de C. S.; CASARIN, S. J. Pesquisa científica: da teoria à prática. Curitiba: InterSaberes, 2012 
+(BVP);
 
-## BIBLIOGRAFIA 
+🔹CORDEIRO, G. do R; MOLINA, N. L.; DIAS, V. F. Orientações e dicas práticas para trabalhos acadêmicos. 
+Curitiba: InterSaberes, 2012. (BVP);
 
-### BIBLIOGRAFIA BÁSICA
+🔹PEROVANO, Dalton Gean. Manual de metodologia da pesquisa científica. Curitiba: Intersaberes, 2016. (BVP)
 
-🔹 ANTUNES,Maria Thereza Pompa. Ética e Responsabilidade Social. SP: Pearson Education do Brasil, 2012 (BVP)
-PUGA, S.; RISSETTI, G. Lógica de programação eestrutura de dados: com aplicações em Java. 3ª ed. São Paulo: Pearson Educationdo Brasil, 2016. (BVP)
+### Bibliografia Complementar
+🔹 BARROS, A. J. da S.; LEHFELD, N. A. de S. Fundamentos de metodologia científica. 3ª ed. São Paulo: Pearson 
+Prentice Hall, 2007. (BVP) ;
 
-🔹 LARSON, R.; FARBER, B.; Estatística aplicada. 6ªed. São Paulo: Pearson, 2015. (BVP)
+🔹 CASTRO, C. de M. Como redigir e apresentar um trabalho científico. São Paulo: Pearson Prentice Hall, 2011. 
+(BVP) ;
 
-### BIBLIOGRAFIA COMPLEMENTAR
+🔹 FOGGETTI, C. Gestão ágil de projetos. São Paulo: Pearson, 2014. (BVP) ;
 
-🔹 FORBELLONE, A. L. V.; EBERSPÄCHER, H. F. Lógica de Programação: a construção de algoritmos e estruturas de dados. 3ª ed. São Paulo: Prentice Hall, 2005. (BVP)
+🔹 MAGALHÃES, G. Introdução à metodologia científica: caminhos da ciência e tecnologia. São Paulo: Ática, 
+2005. (BVMB);
 
-🔹 BARBETTA, P. A; REIS, M. M.; BORNIA, A. C.;Estatística: para cursos de engenharia e informática. 3ª ed. São Paulo: Atlas,2010. (BVMB)
-
-🔹 ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 6. ed. São Paulo: PearsonAddison Wesley, 2012. xxiii, 788 p. (BVP)
-
-🔹 FOWLER, Martin. UML essencial: um breve guia para a linguagem-padrão de modelagem de objetos. 3.ed. Porto Alegre: Bookman, 2005. (BVMB)
-
-🔹 LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre: Bookman, 2007. (BVMB)
+🔹 MATTAR, J. Metodologia científica na era da informática. 3ª ed. São Paulo: Saraiva, 2013. (BVMB).
