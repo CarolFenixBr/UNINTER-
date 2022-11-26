@@ -6,4 +6,5 @@
 ## Aula 2
 ### Aplicação do DFD ao nosso case de estudo
 🔸Diagrama de contexto
-
+🔸Diagrama intermediário
+🔸Entidade de usuário
