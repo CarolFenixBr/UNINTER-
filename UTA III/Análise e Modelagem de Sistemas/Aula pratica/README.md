@@ -4,7 +4,7 @@
 🔸BPMN
 
 ## Aula 2
-### Aplicação do DFD ao nosso case de estudo
+### Aplicação do DFD 
 🔸Diagrama de contexto
 🔸Diagrama intermediário
 🔸Entidade 
