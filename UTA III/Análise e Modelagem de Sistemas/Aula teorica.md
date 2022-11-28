@@ -13,3 +13,10 @@
 - Níveis de um DFD
 - Analisando um exemplo de DFD
 
+## Aula 3
+- Engenharia de requisitos
+- Requisitos funcionais e requisitos não funcionais
+- Documentando requisitos funcionais por meio de casos de uso
+- Estórias de usuários
+- Analisando um exemplo de descrição de caso de uso
+
