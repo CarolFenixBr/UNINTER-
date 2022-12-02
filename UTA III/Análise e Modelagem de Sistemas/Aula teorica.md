@@ -20,3 +20,10 @@
 - Estórias de usuários
 - Analisando um exemplo de descrição de caso de uso
 
+## Aula 4
+- O que é UML
+- Modelo Orientado a Objetos
+- Técnicas de Construção do Diagrama de Caso de Uso
+- Componentes de um Diagrama de Caso de Uso
+- Analisando um Exemplo de Diagrama de Caso de Uso
+
