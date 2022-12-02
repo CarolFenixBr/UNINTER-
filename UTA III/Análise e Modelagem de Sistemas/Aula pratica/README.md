@@ -11,6 +11,8 @@
 
 ## Aula 3
 Análise de engenharia de requisitos e caso de uso, modelando uma rede social da universidade vista nas aulas 1 e 2.
+🔸Aplicação da análise de requisitos funcionais
 
 ## Aula 4 
 Diagrama do caso de uso da aula 3 em UML
+🔸UML
