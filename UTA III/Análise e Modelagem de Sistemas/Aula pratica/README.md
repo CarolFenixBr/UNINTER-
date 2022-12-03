@@ -19,3 +19,6 @@
 
 ## Aula 5
 🔸Diagrama de Classe
+
+## Aula 6
+🔸Diagrama de estado e diagrama de componentes
