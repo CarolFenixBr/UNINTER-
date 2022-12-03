@@ -16,3 +16,6 @@
 ## Aula 4 
 ### Diagrama do caso de uso da aula 3 em UML
 🔸UML
+
+## Aula 5
+🔸Diagrama de Classe
