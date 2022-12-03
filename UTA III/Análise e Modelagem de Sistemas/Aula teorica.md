@@ -27,3 +27,17 @@
 - Componentes de um Diagrama de Caso de Uso
 - Analisando um Exemplo de Diagrama de Caso de Uso
 
+## Aula 5
+- Entendendo o Diagrama de Classe
+- Classes, Atributos e Métodos
+- Relacionamentos
+- Técnicas de Modelagem de Diagrama de Classe
+- Analisando um Exemplo de Diagrama de Classe
+
+## Aula 6
+- Conhecendo o Diagrama de Estado
+- Conhecendo o Diagrama de Atividades
+- Conhecendo o Diagrama de Sequência
+- Conhecendo o Diagrama de Componentes
+- Analisando um Exemplo de Diagrama de Componentes
+
