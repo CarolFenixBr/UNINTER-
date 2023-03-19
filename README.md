@@ -8,27 +8,16 @@
 
 ## Disciplinas Concluídas:
 ✅ Fundamentos de Desenvolvimento de Softwares;
-
 ✅Fundamentos de Infraestrutura da Tecnologia da Informação ;
-
 ✅Fundamentos da Computação;
-
 ✅Fundamentos de Design de Sistemas;
-
 ✅Lógica de Programação e Algoritmos;
-
 ✅Pré-Cálculo;
-
 ✅Comunicação Empresarial;
-
 ✅Análise e Modelagem de Sistemas;
-
 ✅Bancos de Dados Relacionais;
-
 ✅Atividades Extensionistas I;
-
 ◻️Fundamentos de Sistemas de Informação;
-
 ◻️Engenharia de Software.
 
 ### **Algumas Linguagens que serão aprendidas ao longo do curso**
