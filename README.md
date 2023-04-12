@@ -17,15 +17,17 @@
 ✅Análise e Modelagem de Sistemas;
 ✅Bancos de Dados Relacionais;
 ✅Atividades Extensionistas I;
-◻️Fundamentos de Sistemas de Informação;
-◻️Engenharia de Software.
+✅Fundamentos de Sistemas de Informação;
+✅Engenharia de Software;
+◻️Gerência de configuração e evolução;
+◻️Interface humano computador.
 
 ### **Algumas Linguagens que serão aprendidas ao longo do curso**
 ![Captura de tela 2022-07-23 214405](https://user-images.githubusercontent.com/89542446/181680976-1c955a7c-d179-45d7-ac6e-2c30ae1b79e9.png)
 
 ## UTA's concluídas:
 ✅ UTA I;
-◻️ UTA II;
+✅ UTA II;
 ◻️ UTA III;
 ◻️ UTA IV;
 ◻️ UTA V;
