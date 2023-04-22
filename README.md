@@ -28,7 +28,7 @@
 ## UTA's concluídas:
 ✅ UTA I;
 ✅ UTA II;
-◻️ UTA III;
+✅ UTA III;
 ◻️ UTA IV;
 ◻️ UTA V;
 ◻️ UTA VI;
