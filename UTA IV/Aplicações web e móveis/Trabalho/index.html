@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!--Pego uma fonte no google para determinar como serão o formato das letras do meu site -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Gupter:wght@400;500&family=Libre+Barcode+128+Text&family=Roboto:ital,wght@0,100;0,300;0,450;0,550;1,100&display=swap"
+        rel="stylesheet">
+
+    <title>Portfólio pessoal</title> <!-- Título da página -->
+</head>
+
+<body>
+    <div class="Principal">
+        <nav>
+            <h2 class="Portfolio">Port<span>fólio</span></h2> <!-- Cabeçalho -->
+            <ul>
+                <!-- Os links  -->
+                <li><a class="link-menu" href="#home">Home</a></li>
+                <li><a class="link-menu" href="#sobre">Sobre</a></li>
+                <li><a class="link-menu" href="#formação">Formação educacional</a></li>
+                <li><a class="link-menu" href="#projetos-id">Projetos</a></li>
+                <li><a class="link-menu" href="#Contatos">Contato</a></li>
+                <li><a class="link-menu" href="#Rede">Rede Social</a></li>
+
+            </ul>
+        </nav>
+
+        <!-- Primeira página onde fica somente meu nome e uma imagem -->
+        <div class="eu">
+            <h1>Caroline <span>Vargas</span></h1>
+            <h3>Estudante de <span>Engenharia de Software</span></h3>
+        </div>
+    </div>
+
+    <section id="sobre">
+        <img src="./img/eu.png" style="height: 350px;
+        border-radius: 100%; border: 2px solid black; margin-right:25px ;" ;>
+        <div>
+            <!-- Já a segunda página onde falo sobre mim e formação com novos links para sites externos -->
+            <h2>Sobre mim</h2>
+            <p>Me chama Caroline, sou estudante e estou no meu segundo ano de Engenharia de Software. Curto o mundo
+                geek, e sou otaku, meu héroi favorito é o Batman, algo em comum é que temos preparo. Nas minhas horas
+                vagas gosto de jogar e ler mangás/manhwas. </p>
+
+            <P>
+                <a class="botton" href="https://github.com/CarolFenixBr/">GitHub</a>
+            </P>
+            <p>
+
+            <div class="formação" id="formação">
+                <h2>Formação educacional</h2>
+                <p>Cursando o Bacharelado de Engenharia de Software pela UNINTER, tenho curso de Ciência de dados, Power
+                    BI,
+                    Algoritmos e
+                    Lógica de programação, Python, Fundamentos de Cibersegurança, Database, e meu inglês é básico. Para
+                    mais informações entre em contato.</p>
+                <a class="botton"
+                    href="https://drive.google.com/drive/folders/1mEmcVrZErMmIL0BNejVBW7DgDyFvmbda">Certificados</a>
+                <!-- direciona para outro site -->
+                </p>
+
+    </section>
+
+    <div class="projetos" id="projetos-id">
+        <h2>Projetos</h2> <!-- Coeçando a parte dos projetos -->
+
+        <div class="cards"> <!-- adiciono a classe cards para editar no css -->
+
+            <div class="card">
+                <img src="./img/harrypotter.png">
+                <h5>Jogo Harry Potter</h5>
+                <p>Realizado no Scratch durante a aula de Fundamentos de Desenvolvimento de Software pela UNINTER.</p>
+                <a href="https://scratch.mit.edu/projects/717994260" target="_blank">Ver Projeto</a>
+            </div>
+
+            <div class="card"> <!-- outra classe para editar no css-->
+                <img src="./img/netflix.png">
+                <h5>Mundo Invertido</h5>
+                <p>Semana mundo invertido na DIO, sobre Stranger Things uma pag web,projeto realizado com HTML,CSS e
+                    Javascript, durante a semana 23 de agosto à 25 de agosto de 2022. </p>
+                <a href="https://github.com/CarolFenixBr/Digital-Innovation-One/tree/main/Semana%20Mundo%20Invertido"
+                    _blank">Ver Projeto</a>
+            </div>
+
+            <div class="card">
+                <img src="./img/appimoveis.png">
+                <h5>App Imóveis</h5>
+                <p>Projeto realizado como atividade práitca na faculdade na disciplina Fundamentos de Desing de
+                    Sistemas.</p> <a
+                    href="https://www.figma.com/file/S9CJC1BOVKHlLL4zKYSLwm/Design-APP-de-im%C3%B3veis?type=design&node-id=0-1&mode=design"
+                    target="_blank">Ver Projeto</a>
+            </div>
+
+        </div>
+
+        <div class="Contato" id="Contatos">
+            <h2>Contato</h2> <!-- A partir daqui começo a projetar o fórmulario -->
+            <form action="https://formsubmit.co/carolfenixbr@outlook.com" method="POST">
+                <!-- utilizo esse site para direcionar o e-mail que irei receber  -->
+                <label>Nome</label>
+                <input type="text" nome="name" placeholder="Digite seu nome">
+                <label>E-mail</label>
+                <input type="text" nome="email" placeholder="Digite seu e-mail">
+                <label>Mensagem</label>
+                <textarea name="message" id="" cols="30" rows="10" placeholder="Digite sua mensagem"></textarea>
+                <input type="hidden" name="_next" value="http://127.0.0.1:5500/index.html" /> <button
+                    type="submit">Enviar</button>
+
+            </form>
+        </div>
+
+        <footer id="Rede"> <!-- Para o final da página utilizo um footer  -->
+            <p>Rede Social</p>
+
+            <div class="social">
+                <a href="https://www.linkedin.com/in/carolinevsc/" target="_blank">
+                    <img src="./img/linkdin.png">
+                </a>
+
+                <a href="tel:+5521998912927">
+                    <img src="./img/WhatsApp.png">
+                </a>
+            </div>
+
+
+
+        </footer>
+
+
+</body>
+
+</html>
