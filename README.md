@@ -16,13 +16,13 @@
 ✅Comunicação Empresarial;
 ✅Análise e Modelagem de Sistemas;
 ✅Bancos de Dados Relacionais;
-✅Atividades Extensionistas I;
 ✅Fundamentos de Sistemas de Informação;
 ✅Engenharia de Software;
 ✅Gerência de configuração e evolução;
 ✅Interface humano computador;
 ✅Linguagem de programação;
 ✅Aplicações Web e móveis;
+◻️Atividades Extensionistas I;
 ◻️Design para Dispositivos Móveis; 
 ◻️Qualidade de Software.
 
