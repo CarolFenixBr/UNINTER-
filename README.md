@@ -22,7 +22,7 @@
 ✅Interface humano computador;
 ✅Linguagem de programação;
 ✅Aplicações Web e móveis;
-◻️Atividades Extensionistas I;
+✅Atividades Extensionistas I;
 ◻️Design para Dispositivos Móveis; 
 ◻️Qualidade de Software.
 
