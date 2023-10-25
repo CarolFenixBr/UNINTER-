@@ -6,27 +6,34 @@
 
 </div>
 
-## Disciplinas Concluídas:
-✅ Fundamentos de Desenvolvimento de Softwares;
-✅Fundamentos de Infraestrutura da Tecnologia da Informação ;
-✅Fundamentos da Computação;
-✅Fundamentos de Design de Sistemas;
-✅Lógica de Programação e Algoritmos;
-✅Pré-Cálculo;
-✅Comunicação Empresarial;
-✅Análise e Modelagem de Sistemas;
-✅Bancos de Dados Relacionais;
-✅Fundamentos de Sistemas de Informação;
-✅Engenharia de Software;
-✅Gerência de configuração e evolução;
-✅Interface humano computador;
-✅Linguagem de programação;
-✅Aplicações Web e móveis;
-✅Atividades Extensionistas I;
-✅Design para Dispositivos Móveis; 
-✅Qualidade de Software.
-✅Programação I
-✅PROGRAMAÇÃO ORIENTADA A OBJETOS
+ ## 🔛Disciplinas em andamento:
+⬜Visualização de Dados e Storytelling;<br>
+⬜Desenvolvimento Web - Back End;<br>
+⬜Atividades Extensionistas II - Tecnologia Aplicada à Inclusão Digital - Projeto.<br>
+
+## 🔚Disciplinas Concluídas:
+✅ Fundamentos de Desenvolvimento de Softwares;<br>
+✅Fundamentos de Infraestrutura da Tecnologia da Informação ;<br>
+✅Fundamentos da Computação;<br>
+✅Fundamentos de Design de Sistemas;<br>
+✅Lógica de Programação e Algoritmos;<br>
+✅Pré-Cálculo; <br>
+✅Comunicação Empresarial;<br>
+✅Análise e Modelagem de Sistemas;<br>
+✅Bancos de Dados Relacionais;<br>
+✅Fundamentos de Sistemas de Informação;<br>
+✅Engenharia de Software;<br>
+✅Gerência de configuração e evolução;<br>
+✅Interface humano computador;<br>
+✅Linguagem de programação;<br>
+✅Aplicações Web e móveis;<br>
+✅Atividades Extensionistas I - Levantamento;<br>
+✅Design para Dispositivos Móveis; <br>
+✅Qualidade de Software;<br>
+✅Programação I;<br>
+✅PROGRAMAÇÃO ORIENTADA A OBJETOS.<br>
+
+
 ### **Algumas Linguagens que serão aprendidas ao longo do curso**
 ![Captura de tela 2022-07-23 214405](https://user-images.githubusercontent.com/89542446/181680976-1c955a7c-d179-45d7-ac6e-2c30ae1b79e9.png)
 
