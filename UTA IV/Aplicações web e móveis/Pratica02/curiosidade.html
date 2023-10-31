@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curiosidades</title>
+    <style>
+        body{
+            margin: 0;
+            background-color: rgb(243, 226, 226);
+        }
+
+        .container{
+            display: grid;
+        }
+
+        header{
+            grid-column-start: 1;
+            grid-column-end: 12;
+            background-color: black;
+        }
+
+        .menu{
+            grid-column-start: 6;
+            grid-column-end: 12;            
+            justify-content: center; /*centraliza o menu*/
+            gap: 20px; /* https://nekocalc.com/px-to-rem-converter */
+        }
+
+        .imagem_leo{
+            grid-column-start: 1;
+            grid-column-end: 3;            
+        }
+
+        .principal{
+            grid-column-start: 4;
+            grid-column-end: 12;
+            padding-left: 15px;
+            padding-right: 15px;
+            text-align: justify;
+        }
+
+        footer{
+            grid-column-start: 1;
+            grid-column-end: 12;
+            padding-left: 15px;
+            padding-right: 15px;
+            text-align: center;
+            color: rgb(255, 255, 255);
+            background-color: black;
+        }
+
+       
+
+        ul{
+            list-style-type: none;
+            color: rgb(231, 231, 231);
+        }
+
+        a,
+        a:link{
+            text-decoration: none;
+            padding: 8px 16px;
+            border: solid #9966ff 2px;
+        }
+
+        li{
+            float: left;
+        }
+
+        a:hover { 
+            background-color: #f1f8ed;
+            color: #d84d4d;
+        }
+
+       
+
+        /* media query para dispositivos móveis */
+        @media only screen and (max-width: 767px){
+            .wrapper{
+                grid-column-start: 1;
+                grid-column-end: 1;
+            }
+
+            .imagem_leo{
+                grid-column-start: 1;
+                grid-column-end: 1;
+            }
+
+            .principal{
+                grid-column-start: 1;
+                grid-column-end: 1;
+            }
+            
+        }
+
+    </style>
+</head>
+<body>
+    <header class="container">
+        <h1 style="color: aliceblue; text-align: center;">Curiosidades</h1>
+        <br>
+    </header>
+
+    <nav class="container menu">
+        <ul>
+            <li><a href="index.html">Biografia</a></li>
+            <li><a href="obras.html">Obras</a></li>
+            <li><a href="curiosidade.html">Curiosidades</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container wrapper">
+        <aside class="imagem_leo">
+            <img src="https://th.bing.com/th/id/OIP.JCHoxXjIK1scgpD_11EdqgHaKD?pid=ImgDet&rs=1">
+            <div class="infos">
+                <p><strong>Ocupação:</strong> Pintor Italiano</p>
+                <p>
+                    <strong>Data de nascimento:</strong>
+                    15/04/1452
+                </p>
+                <p><strong>Data da morte:</strong> 02/05/1509 (aos 67anos)</p>
+            </div>
+        </aside>
+
+        <section class="principal">
+            <h1>Curiosidades</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam rem, expedita sequi itaque nihil pariatur totam? Eveniet dicta sapiente, inventore repellat obcaecati fuga odio pariatur. Itaque ab minima doloremque praesentium? Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus alias ea quidem magni, quam iusto impedit illum molestiae, officia amet, labore sequi ipsam odit odio beatae quaerat esse dolorum Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio, velit magnam! Repellat maiores obcaecati nemo ea, error iste inventore vel dolorum illum tempora enim voluptas maxime, laboriosam mollitia odit corrupti. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione ipsam aliquid totam, optio fugiat inventore? Corporis, et! Nihil, harum sapiente. Perspiciatis voluptatum doloribus sunt in praesentium ad, atque suscipit obcaecati. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis illum fugiat excepturi dolor repudiandae nulla ad adipisci iure! Voluptatum a molestias nostrum vero omnis nisi porro fugit alias numquam error. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi labore aliquam, dolor voluptatibus numquam quibusdam consequuntur totam earum officia! Voluptatibus pariatur neque distinctio corporis sit at ipsum eius obcaecati facere! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, provident exercitationem? Nostrum totam perferendis repudiandae esse? Eveniet aperiam rem cupiditate impedit, illum quas architecto vero nulla corrupti id quam iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, veniam iure. Rem saepe ratione, dicta rerum laboriosam nesciunt. Exercitationem labore quae optio in illo mollitia assumenda fuga perspiciatis inventore soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ullam sequi aliquam saepe reprehenderit, modi accusantium cumque enim iure ex suscipit molestiae, explicabo ratione, voluptates consectetur facere repellendus earum? Molestias.</p>
+        </section>
+    </div>
+
+    <footer class="container">
+        <h1>Desenvolvido para fins educacionais</h1>
+    </footer>
+
+</body>
+</html>
