@@ -31,7 +31,7 @@
 ✅Design para Dispositivos Móveis; <br>
 ✅Qualidade de Software;<br>
 ✅Programação I;<br>
-✅PROGRAMAÇÃO ORIENTADA A OBJETOS.<br>
+✅Programação orientada a objetos.<br>
 
 
 ### **Algumas Linguagens que serão aprendidas ao longo do curso**
