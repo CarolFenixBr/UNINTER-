@@ -1,17 +1,15 @@
-<div align="center">
 
-# Engenharia de Software
+<h1>Engenharia de Software</h1> 
+ 
 ## Grade Curricular
-![image](https://user-images.githubusercontent.com/89542446/197353803-c2461ea4-77e2-4fba-a8d4-e614cf8504d9.png)
+![Planos de Ensino - Engenharia de Software_pages-to-jpg-0002](https://github.com/CarolFenixBr/UNINTER/assets/89542446/18dc2025-0c3d-43ec-b511-0cf9dab8cf25)
 
-</div>
-
- ## 🔛Disciplinas em andamento:
+<h2>🔛Disciplinas em andamento:</h2> 
 ⬜Visualização de Dados e Storytelling;<br>
 ⬜Desenvolvimento Web - Back End;<br>
 ⬜Atividades Extensionistas II - Tecnologia Aplicada à Inclusão Digital - Projeto.<br>
 
-## 🔚Disciplinas Concluídas:
+<h2> 🔚Disciplinas Concluídas:</h2>
 ✅ Fundamentos de Desenvolvimento de Softwares;<br>
 ✅Fundamentos de Infraestrutura da Tecnologia da Informação ;<br>
 ✅Fundamentos da Computação;<br>
@@ -32,6 +30,7 @@
 ✅Qualidade de Software;<br>
 ✅Programação I;<br>
 ✅Programação orientada a objetos.<br>
+
 
 
 ### **Algumas Linguagens que serão aprendidas ao longo do curso**
