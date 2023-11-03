@@ -2,7 +2,9 @@
 <h1>Engenharia de Software</h1> 
  
 ## Grade Curricular
-![Planos de Ensino - Engenharia de Software_pages-to-jpg-0002](https://github.com/CarolFenixBr/UNINTER/assets/89542446/18dc2025-0c3d-43ec-b511-0cf9dab8cf25)
+
+![Planos de Ensino - Engenharia de Software_pages-to-jpg-0002](https://github.com/CarolFenixBr/UNINTER/assets/89542446/64e27a54-91c2-46bd-8b98-6ee94d91a0e2)
+
 
 <h2>🔛Disciplinas em andamento:</h2> 
 ⬜Visualização de Dados e Storytelling;<br>
