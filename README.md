@@ -7,7 +7,6 @@
 
 
 <h2>🔛Disciplinas em andamento:</h2> 
-⬜Visualização de Dados e Storytelling;<br>
 ⬜Desenvolvimento Web - Back End;<br>
 ⬜Atividades Extensionistas II - Tecnologia Aplicada à Inclusão Digital - Projeto.<br>
 
@@ -31,7 +30,8 @@
 ✅Design para Dispositivos Móveis; <br>
 ✅Qualidade de Software;<br>
 ✅Programação I;<br>
-✅Programação orientada a objetos.<br>
+✅Programação orientada a objetos;<br>
+✅Visualização de Dados e Storytelling.<br>
 
 
 
