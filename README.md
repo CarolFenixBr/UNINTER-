@@ -9,7 +9,7 @@
 <h2>🔛Disciplinas em andamento:</h2> 
 ⬜Sistema Gerenciador de Banco de Dados;<br>
 ⬜Big Data;<br>
-⬜Atividades Extensionistas II - Tecnologia Aplicada à Inclusão Digital - Projeto.<br>
+
 
 <h2> 🔚Disciplinas Concluídas:</h2>
 ✅ Fundamentos de Desenvolvimento de Softwares;<br>
@@ -33,7 +33,8 @@
 ✅Programação I;<br>
 ✅Programação orientada a objetos;<br>
 ✅Visualização de Dados e Storytelling;<br>
-✅Desenvolvimento Web - Back End.
+✅Desenvolvimento Web - Back End;<br>
+✅Atividades Extensionistas II - Tecnologia Aplicada à Inclusão Digital - Projeto.<br>
 
 
 
