@@ -7,8 +7,8 @@
 
 
 <h2>🔛Disciplinas em andamento:</h2> 
-⬜Engenharia de Requisitos;<br>
-⬜Banco de Dados NoSQL.<br>
+⬜Gestão de Projetos;<br>
+⬜Programação III. <BR>
 
 <h2> 🔚Disciplinas Concluídas:</h2>
 ✅ Fundamentos de Desenvolvimento de Softwares;<br>
@@ -35,7 +35,9 @@
 ✅Desenvolvimento Web - Back End;<br>
 ✅Atividades Extensionistas II - Tecnologia Aplicada à Inclusão Digital - Projeto;<br>
 ✅Sistema Gerenciador de Banco de Dados;<br>
-✅Big Data.<br>
+✅Big Data;<br>
+✅Engenharia de Requisitos;<br>
+✅Banco de Dados NoSQL.<br>
 
 
 
