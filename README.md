@@ -7,8 +7,8 @@
 
 
 <h2>🔛Disciplinas em andamento:</h2> 
-⬜Gestão de Projetos;<br>
-⬜Programação III. <BR>
+⬜Internet das Coisas;<br>
+⬜Governança de Sistemas da Informação.<br>
 
 <h2> 🔚Disciplinas Concluídas:</h2>
 ✅ Fundamentos de Desenvolvimento de Softwares;<br>
@@ -37,7 +37,9 @@
 ✅Sistema Gerenciador de Banco de Dados;<br>
 ✅Big Data;<br>
 ✅Engenharia de Requisitos;<br>
-✅Banco de Dados NoSQL.<br>
+✅Banco de Dados NoSQL;<br>
+✅Gestão de Projetos;<br>
+✅Programação III. <br>
 
 
 
