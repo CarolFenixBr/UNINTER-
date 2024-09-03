@@ -7,8 +7,11 @@
 
 
 <h2>🔛Disciplinas em andamento:</h2> 
-⬜Internet das Coisas;<br>
-⬜Governança de Sistemas da Informação.<br>
+⬜Inteligência Artificial;<br>
+⬜Segurança de Sistemas de Informação;<br>
+⬜Estágio Supervisionado;<br>
+⬜Atividades Complementares;<br>
+⬜Atividade Extensionista III - Tecnologia aplicada à Inclusão Digital - Análise.<br>
 
 <h2> 🔚Disciplinas Concluídas:</h2>
 ✅ Fundamentos de Desenvolvimento de Softwares;<br>
@@ -39,7 +42,9 @@
 ✅Engenharia de Requisitos;<br>
 ✅Banco de Dados NoSQL;<br>
 ✅Gestão de Projetos;<br>
-✅Programação III. <br>
+✅Programação III; <br>
+✅Internet das Coisas;<br>
+✅Governança de Sistemas da Informação.<br>
 
 
 
