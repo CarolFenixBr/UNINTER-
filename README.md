@@ -1,10 +1,5 @@
 
 <h1>Engenharia de Software</h1> 
- 
-## Grade Curricular
-
-![Planos de Ensino - Engenharia de Software_pages-to-jpg-0002](https://github.com/CarolFenixBr/UNINTER/assets/89542446/64e27a54-91c2-46bd-8b98-6ee94d91a0e2)
-
 
 <h2>🔛Disciplinas em andamento:</h2> 
 ⬜Inteligência Artificial;<br>
@@ -45,6 +40,13 @@
 ✅Programação III; <br>
 ✅Internet das Coisas;<br>
 ✅Governança de Sistemas da Informação.<br>
+
+
+ 
+## Grade Curricular
+
+![Planos de Ensino - Engenharia de Software_pages-to-jpg-0002](https://github.com/CarolFenixBr/UNINTER/assets/89542446/64e27a54-91c2-46bd-8b98-6ee94d91a0e2)
+
 
 
 
